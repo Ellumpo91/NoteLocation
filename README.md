@@ -1,6 +1,15 @@
 # NoteLocation
 learn every note on your Guitar
 
+
+
+
+
+
+
+
+
+
 <!DOCTYPE html>
 <html lang="de">
 <head>
